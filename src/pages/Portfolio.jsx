@@ -7,7 +7,7 @@ export default function Portfolio() {
             <div className="portfolio-container">
                 {/* <!-- Project 1 --> */}
                 <div className="portfolio-box">
-                    <img src="/public/Employee Payroll Tracker.png" alt="Employee Payroll Tracker" />
+                    <img src="/Employee Payroll Tracker.png" alt="Employee Payroll Tracker" />
                     <div className="portfolio-layer">
                         <div className="portfolio-title">
                             <h4>Employee Payroll Tracker</h4>
@@ -25,7 +25,7 @@ export default function Portfolio() {
 
                 {/* <!-- Project 2 --> */}
                 <div className="portfolio-box">
-                    <img src="/public/Blog Page.png" alt="My Personal Blog" />
+                    <img src="/Blog Page.png" alt="My Personal Blog" />
                     <div className="portfolio-layer">
                         <div className="portfolio-title">
                             <h4>My Personal Blog</h4>
@@ -43,7 +43,7 @@ export default function Portfolio() {
 
                 {/* <!-- Project 3 --> */}
                 <div className="portfolio-box">
-                    <img src="/public/Task Board Image.png" alt="Task Board" />
+                    <img src="/Task Board Image.png" alt="Task Board" />
                     <div className="portfolio-layer">
                         <div className="portfolio-title">
                             <h4>Task Board</h4>
@@ -61,7 +61,7 @@ export default function Portfolio() {
 
                 {/* <!-- Project 4 --> */}
                 <div className="portfolio-box">
-                    <img src="/public/Weather Dashboard.png" alt="Weather Dashboard" />
+                    <img src="/Weather Dashboard.png" alt="Weather Dashboard" />
                     <div className="portfolio-layer">
                         <div className="portfolio-title">
                             <h4>Weather Dashboard</h4>
@@ -79,7 +79,7 @@ export default function Portfolio() {
 
                 {/* <!-- Project 5 --> */}
                 <div className="portfolio-box">
-                    <img src="/public/Note Taker.png" alt="Note Taker" />
+                    <img src="/Note Taker.png" alt="Note Taker" />
                     <div className="portfolio-layer">
                         <div className="portfolio-title">
                             <h4>Note Taker</h4>
@@ -97,7 +97,7 @@ export default function Portfolio() {
 
                 {/* <!-- Project 6 --> */}
                 <div className="portfolio-box">
-                    <img src="/public/Text Editor.png" alt="Text Editor" />
+                    <img src="/Text Editor.png" alt="Text Editor" />
                     <div className="portfolio-layer">
                         <div className="portfolio-title">
                             <h4>Text Editor</h4>
