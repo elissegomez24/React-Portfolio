@@ -64,7 +64,7 @@ To deploy the application using Netlify:
 
 1. **Push to GitHub**
 2. **Deploy on Netlify**
-3. **Access Your Application**
+3. **Access Application**
 
 ## Deployed Application
 
