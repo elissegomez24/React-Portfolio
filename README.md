@@ -31,11 +31,9 @@ The React Portfolio is a personal portfolio website built using React.js. It sho
 3. Install the dependencies: npm install
 4. Start the development server: npm start
 
-- The application will run on http://localhost:3000.
-
 ## Usage
 
-- Open your web browser and go to http://localhost:3000 to view the portfolio.
+- Open your web browser view the portfolio.
 - Navigate through the different sections (e.g., About Me, Projects, Contact) using the navigation menu.
 - Fill out the contact form to get in touch.
 
@@ -55,14 +53,22 @@ The React Portfolio is a personal portfolio website built using React.js. It sho
 5. Open a pull request.
 
 ## Screenshots
+![React-Portfolio\images\React Portfolio1.png ](<images/React Portfolio1.png>)
+![React-Portfolio\images\React Portfolio2.png](<images/React Portfolio2.png>)
+![React-Portfolio\images\React Portfolio3.png](<images/React Portfolio3.png>)
+![React-Portfolio/images/React Portfolio4.png](<images/React Portfolio4.png>)
 
 ## Deployment on Netlify
 
 To deploy the application using Netlify:
 
 1. **Push to GitHub**
+2. **Deploy on Netlify**
+3. **Access Your Application**
 
 ## Deployed Application
+
+https://elissereactportfolio.netlify.app/about 
 
 ## License
 
