@@ -3,7 +3,7 @@ export default function Resume() {
         // <!-- Resume Section Design -->
         <section className="resume" id="resume">
             <h2 className="heading">My <span>Resume</span></h2>
-            <a href="./public/docs/Elisse G Resume.pdf" className="btn" download>Download My Resume</a>
+            <a href="/docs/Elisse G Resume.pdf" className="btn" download>Download My Resume</a>
     
             {/* <!-- Front-End and Back-End Proficiencies Section --> */}
             <section className="proficiencies">
