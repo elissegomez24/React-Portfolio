@@ -1,36 +1,72 @@
-# Elisse Portfolio README
+# React Portfolio
 
-## Introduction
-This repository contains the HTML and CSS code for Elisse Gomez's portfolio website.
+## Description
 
-## HTML Structure
-The HTML file (`index.html`) includes sections for the Header, Home, About Me, Projects, Contact, and Footer.
+The React Portfolio is a personal portfolio website built using React.js. It showcases projects, skills, and experience in a modern, responsive design. This portfolio serves as a platform for potential employers and collaborators to view my work and learn more about my capabilities as a developer.
 
-## CSS Styling
-The CSS file (`style.css`) defines the styling for the entire website, including color schemes, layout, and responsiveness.
+## Table of Contents
 
-## HTML Content/ Description of Website
-- **Header**: Contains the logo and navigation links.
-- **Home**: Displays a welcome message, social media links, and a call-to-action button for resume purposes. 
-- **About Me**: Provides information about Elisse and her aspirations as a web developer. 
-- **Projects**: Showcases projects with images and links.
-- **Contact**: Includes a form for visitors to send messages.
-- **Footer**: Contains copyright information and a button to scroll back to the top.
+- [Description](#description)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [Screenshots](#screenshots)
+- [Deployment on Netlify](#deployment-on-netlify)
+- [Deployed Application](#deployed-application)
+- [License](#license)
 
-## Screenshot
-![alt text](<assets/Images/Elisse New Portfolio.png>)
+## Technologies Used
 
-## Website 
-To access Elisse Portfolio- select this link: https://elissegomez24.github.io/Elisse-Portfolio/ 
+- **React.js** - A JavaScript library for building user interfaces
+- **CSS** - For styling the components
+- **React Router** - For navigating between different sections of the portfolio
+- **Node.js** - For running the development server
+
+## Installation
+
+1. Clone the repository
+2. Navigate to the project directory: cd react-portfolio
+3. Install the dependencies: npm install
+4. Start the development server: npm start
+
+- The application will run on http://localhost:3000.
 
 ## Usage
-To use this code, simply clone the repository and open the `index.html` file in a web browser. Make sure to maintain the file structure to ensure proper functioning.
 
-## Author
-This code was created by Elisse Gomez.
+- Open your web browser and go to http://localhost:3000 to view the portfolio.
+- Navigate through the different sections (e.g., About Me, Projects, Contact) using the navigation menu.
+- Fill out the contact form to get in touch.
+
+## Features
+
+- Responsive Design: The portfolio adjusts to various screen sizes for optimal viewing on desktops, tablets, and mobile devices.
+- Smooth Navigation: Utilize React Router for seamless transitions between sections.
+- Project Showcase: A dedicated section to display completed projects with descriptions and links to live demos or source code.
+- Contact Form: An interactive form to allow visitors to reach out directly (if implemented with Nodemailer).
+
+## Contributing
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m "Add new feature"`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
+## Screenshots
+
+## Deployment on Netlify
+
+To deploy the application using Netlify:
+
+1. **Push to GitHub**
+
+## Deployed Application
 
 ## License
-This project is licensed under the [MIT License](LICENSE). 
+
+This project is licensed under the [MIT LICENSE](LICENSE).
 
 > [!NOTE]  
-> Recourses used for creating code. Referred back to class work for file format such as reviewing class recording, as well as referred back to prework Module 3, Lesson 5. Worked with peers on assignment and compared challenge template to assist with creating readme file. 
+> Recourses used for creating code. Referred back to class work for file format such as reviewing class recording. Worked with peers on assignment and compared challenge template to assist with creating readme file.
