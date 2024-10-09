@@ -68,7 +68,7 @@ To deploy the application using Netlify:
 
 ## Deployed Application
 
-https://elissereactportfolio.netlify.app/about 
+https://elissereactportfolio.netlify.app
 
 ## License
 
