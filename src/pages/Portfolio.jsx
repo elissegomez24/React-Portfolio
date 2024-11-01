@@ -79,15 +79,15 @@ export default function Portfolio() {
 
                 {/* <!-- Project 5 --> */}
                 <div className="portfolio-box">
-                    <img src="/Note Taker.png" alt="Note Taker" />
+                    <img src="/Book Search Engine.png" alt="Book Search Engine" />
                     <div className="portfolio-layer">
                         <div className="portfolio-title">
-                            <h4>Note Taker</h4>
+                            <h4>Book Search Engine</h4>
                             <div className="portfolio-links">
-                                <a href="https://note-taker-fvwk.onrender.com/" aria-label="View Note Taker live site">
+                                <a href="https://book-search-engine-3qy8.onrender.com/" aria-label="View Book Search Engine live site">
                                     <i className="bx bx-link-external"></i>
                                 </a>
-                                <a href="https://github.com/elissegomez24/Note-Taker" aria-label="View Note Taker GitHub repository">
+                                <a href="https://github.com/elissegomez24/Book-Search-Engine" aria-label="View Book Search Engine GitHub repository">
                                     <i className="bx bxl-github"></i>
                                 </a>
                             </div>
@@ -97,15 +97,15 @@ export default function Portfolio() {
 
                 {/* <!-- Project 6 --> */}
                 <div className="portfolio-box">
-                    <img src="/Text Editor.png" alt="Text Editor" />
+                    <img src="/Redux Store.png" alt="Redux Store" />
                     <div className="portfolio-layer">
                         <div className="portfolio-title">
-                            <h4>Text Editor</h4>
+                            <h4>Redux Store</h4>
                             <div className="portfolio-links">
-                                <a href="https://text-editor-jo56.onrender.com/" aria-label="View Text Editor live site">
+                                <a href="https://redux-store-g8ui.onrender.com/" aria-label="View Redux Store live site">
                                     <i className="bx bx-link-external"></i>
                                 </a>
-                                <a href="https://github.com/elissegomez24/Text-Editor" aria-label="View Text Editor GitHub repository">
+                                <a href="https://github.com/elissegomez24/Redux-Store" aria-label="View Redux Store GitHub repository">
                                     <i className="bx bxl-github"></i>
                                 </a>
                             </div>
