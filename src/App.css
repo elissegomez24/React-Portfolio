@@ -221,7 +221,7 @@ section {
   font-size: 4.2rem;
   color: var(--text-color);
   margin-bottom: 1.2rem;
-  margin-top: 15rem; /* Add space above the heading */
+  margin-top: 16rem; /* Add space above the heading */
 }
 
 .aboutme-content h3 {
