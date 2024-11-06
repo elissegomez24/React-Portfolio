@@ -1,8 +1,7 @@
-import ReactDOM from 'react-dom/client'
-// Bringing in the required imports from 'react-router-dom' to set up application routing behavior
+import ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
-import './App.css'
+import './App.css';
 
 import App from './App';
 import Header from './pages/Header';
@@ -15,31 +14,31 @@ import Footer from './pages/Footer';
 // Define the accessible routes, and which components respond to which URL
 const router = createBrowserRouter([
   {
-    path: '/',
-    element: <App />,
+    path: '*', // Changed to wildcard path
+    element: <App />, // The main wrapper component
     children: [
       {
-        index: true,
-        element: <Header />,
+        index: true, // Default route
+        element: <Header />, // Header is the first component rendered
       },
       {
-        path: '/About',
+        path: 'about', // Relative path (no leading slash)
         element: <About />,
       },
       {
-        path: '/Portfolio',
+        path: 'portfolio',
         element: <Portfolio />,
       },
       {
-        path: '/Contact',
+        path: 'contact',
         element: <Contact />,
       },
       {
-        path: '/Resume',
+        path: 'resume',
         element: <Resume />,
       },
       {
-        path: '/Footer',
+        path: 'footer',
         element: <Footer />,
       },
     ],
