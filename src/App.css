@@ -306,6 +306,12 @@ section {
   color: var(--second-bg-color);
 }
 
+.portfolio-description {
+  font-size: 14px;
+  color: var(--text-color);
+  margin-top: 8px;
+}
+
 /* The Contact Me Form */
 .contact h2 {
   margin-bottom: 3rem;
